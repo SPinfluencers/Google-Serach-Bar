@@ -22,7 +22,7 @@ const SearchBarWrapper = styled.div`
 const Input = styled.input`
   border: none;
   outline: none;
-  flex: 100%;
+  flex: 50%;
 `;
 
 const RightSide = styled.div`
